@@ -31,11 +31,11 @@ This project was made using the following technologies:
 <li><a href="https://expo.io/">Expo</a></li>
 <li><a href="https://expressjs.com/en/api.html#express">Express</a></li></ul> 
  
- # :rocket: Functionalities 
- * Student and Teacher Registration Site. 
- * APP to connect students and teachers. 
+# :rocket: Functionalities 
+* Student and Teacher Registration Site. 
+* APP to connect students and teachers. 
  
- # :closed_book: License 
- Launched in 2020 :closed_book:
- License Made with love by [Enuch Santos](https://github.com/Enuch) 🚀.
- This project is on [MIT license](https://github.com/Enuch/Proffy/blob/master/LICENSE). Give ⭐️ if this project helped you!
+# :closed_book: License 
+Launched in 2020 :closed_book: <br>
+License Made with love by [Enuch Santos](https://github.com/Enuch) 🚀. <br>
+This project is on [MIT license](https://github.com/Enuch/Proffy/blob/master/LICENSE). Give ⭐️ if this project helped you!
