@@ -13,7 +13,7 @@
 # :pushpin: Table of contents
 * [Technologies](#computer-technologies)
 * [Functionalities](#rocket-functionalities)
-* [How-to-run](#wrench-How-to-run)
+* [How to run](#wrench-How-to-run)
 * [License](#closed_book-license)
 
 <h3 align="center"> Web Screenshot </h3>
