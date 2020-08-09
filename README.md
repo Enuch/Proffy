@@ -47,10 +47,8 @@ git clone https://github.com/guilhermecapitao/proffy-discovery
 ``` bash
 # Enter directory
 cd proffy
-bash
 # Download dependencies
 npm i
-bash
 # Run the server
 npm run dev
 ```
