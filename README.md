@@ -13,6 +13,7 @@
 # :pushpin: Table of contents
 * [Technologies](#computer-technologies)
 * [Functionalities](#rocket-functionalities)
+* [How-to-run](#wrench-How-to-run)
 * [License](#closed_book-license)
 
 <h3 align="center"> Web Screenshot </h3>
@@ -36,6 +37,28 @@ This project was made using the following technologies:
 * Student and Teacher Registration Site. 
 * APP to connect students and teachers.
 <br>
+
+# :wrench: How to run
+``` bash
+# Clonar o repositório
+git clone https://github.com/guilhermecapitao/proffy-discovery
+```
+#### Run API
+```
+# Entrar no diretório
+cd proffy
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm run dev
+```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
+
+---
+
  
 # :closed_book: License 
 Launched in 2020 :closed_book: <br>
