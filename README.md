@@ -1,9 +1,11 @@
 <p align="center"> <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/logo.png" alt="Proffy" width="280"/></p>
 <br>
 
-<p align="center"><a href="https://github.com/Enuch/Proffy/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Enuch/Proffy?    color=purple&label=License"></a>
+<p align="center">
+<a href="https://github.com/Enuch/Proffy/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Enuch/Proffy?color=purple&label=License"></a>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Enuch/Proffy?color=purple&label=Last%20commit">
-<a href="https://github.com/Enuch/Proffy/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Enuch/Proffy?color=purple&label=Stars"></a>
+<a href="https://github.com/Enuch/Proffy/stargazers">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/Enuch/Proffy?color=purple&label=Stars"></a>
 </p> 
 <p align="center"> :rocket:  Next Level Week #2 #NLW @Rocketseat / A plataform to connect teachers and students online. </p>
 <div align="center"> <sub>The NLW #2 project. Built with ❤︎ by <a href="https://github.com/Enuch">Enuch Santos</a> </a> </sub> </div>
