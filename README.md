@@ -36,5 +36,6 @@ This project was made using the following technologies:
  * APP to connect students and teachers. 
  
  # :closed_book: License 
- Launched in 2020 :closed_book: License Made with love by [Enuch Santos](https://github.com/Enuch) 🚀.
+ Launched in 2020 :closed_book:
+ License Made with love by [Enuch Santos](https://github.com/Enuch) 🚀.
  This project is on [MIT license](https://github.com/Enuch/Proffy/blob/master/LICENSE). Give ⭐️ if this project helped you!
