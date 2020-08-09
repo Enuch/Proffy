@@ -27,10 +27,10 @@
 
 This project was made using the following technologies: 
 
-<ul><li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-<li><a href="https://reactnative.dev/">React Native</a></li>
-<li><a href="https://expo.io/">Expo</a></li>
-<li><a href="https://expressjs.com/en/api.html#express">Express</a></li></ul> 
+<ul><li><a href="https://www.javascript.com/">JavaScrip</a></li>
+<li><a href="https://nodejs.org/pt-br/">NodeJS</a></li>
+<li><a href="https://expressjs.com/pt-br/">Express</a></li>
+<li><a href="https://mozilla.github.io/Nunjucks/</a></li></ul> 
 <br>
 
 # :rocket: Functionalities 
@@ -40,18 +40,18 @@ This project was made using the following technologies:
 
 # :wrench: How to run
 ``` bash
-# Clonar o repositório
+# Clone repository
 git clone https://github.com/guilhermecapitao/proffy-discovery
 ```
 #### Run API
 ```
-# Entrar no diretório
+# Enter directory
 cd proffy
 
-# Baixar as dependências
+# Download dependencies
 npm i
 
-# Executar o servidor
+# Run the server
 npm run dev
 ```
 
