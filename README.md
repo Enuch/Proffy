@@ -44,13 +44,13 @@ This project was made using the following technologies:
 git clone https://github.com/guilhermecapitao/proffy-discovery
 ```
 #### Run API
-```
+``` bash
 # Enter directory
 cd proffy
-
+bash
 # Download dependencies
 npm i
-
+bash
 # Run the server
 npm run dev
 ```
