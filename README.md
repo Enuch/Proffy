@@ -30,10 +30,12 @@ This project was made using the following technologies:
 <li><a href="https://reactnative.dev/">React Native</a></li>
 <li><a href="https://expo.io/">Expo</a></li>
 <li><a href="https://expressjs.com/en/api.html#express">Express</a></li></ul> 
- 
+
+
 # :rocket: Functionalities 
 * Student and Teacher Registration Site. 
-* APP to connect students and teachers. 
+* APP to connect students and teachers.
+
  
 # :closed_book: License 
 Launched in 2020 :closed_book: <br>
