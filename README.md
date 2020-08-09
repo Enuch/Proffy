@@ -61,4 +61,5 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 # :closed_book: License 
 Launched in 2020 :closed_book: <br>
 License Made with love by [Enuch Santos](https://github.com/Enuch) 🚀. <br>
-This project is on [MIT license](https://github.com/Enuch/Proffy/blob/master/LICENSE). Give ⭐️ if this project helped you!
+This project is on [MIT license](https://github.com/Enuch/Proffy/blob/master/LICENSE). <br>
+Give ⭐️ if this project helped you!
