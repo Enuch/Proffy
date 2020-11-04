@@ -28,9 +28,9 @@
 This project was made using the following technologies: 
 
 <ul><li><a href="https://www.javascript.com/">JavaScrip</a></li>
-<li><a href="https://nodejs.org/pt-br/">NodeJS</a></li>
-<li><a href="https://expressjs.com/pt-br/">Express</a></li>
-<li><a href="https://mozilla.github.io/Nunjucks/">Nunjucks</a></li></ul> 
+<li>CSS</a></li>
+<li>HTML</a></li>
+<li>SQlite</a></li></ul> 
 <br>
 
 # :rocket: Functionalities 
