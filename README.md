@@ -26,7 +26,7 @@
 
 This project was made using the following technologies: 
 
-<ul><li><a href="https://www.javascript.com/">JavaScrip</a></li>
+<ul><li><a href="https://www.javascript.com/">JavaScritp</a></li>
 <li>CSS</a></li>
 <li>HTML</a></li>
 <li>SQlite</a></li></ul> 
